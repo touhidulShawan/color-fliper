@@ -1,6 +1,7 @@
 This **Color Fliper** project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-(Live Here)[https://touhidulshawan.github.io/color-fliper/]
+[Live Here](https://touhidulshawan.github.io/color-fliper/)
+
 
 ## Available Scripts
 
