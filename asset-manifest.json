@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/color-fliper/static/css/main.4559cbae.chunk.css",
+    "main.js": "/color-fliper/static/js/main.cff853d2.chunk.js",
+    "main.js.map": "/color-fliper/static/js/main.cff853d2.chunk.js.map",
+    "runtime-main.js": "/color-fliper/static/js/runtime-main.1419f497.js",
+    "runtime-main.js.map": "/color-fliper/static/js/runtime-main.1419f497.js.map",
+    "static/js/2.9d3e6242.chunk.js": "/color-fliper/static/js/2.9d3e6242.chunk.js",
+    "static/js/2.9d3e6242.chunk.js.map": "/color-fliper/static/js/2.9d3e6242.chunk.js.map",
+    "index.html": "/color-fliper/index.html",
+    "precache-manifest.1f0741dddae3f4278bec04d7543a299a.js": "/color-fliper/precache-manifest.1f0741dddae3f4278bec04d7543a299a.js",
+    "service-worker.js": "/color-fliper/service-worker.js",
+    "static/css/main.4559cbae.chunk.css.map": "/color-fliper/static/css/main.4559cbae.chunk.css.map",
+    "static/js/2.9d3e6242.chunk.js.LICENSE.txt": "/color-fliper/static/js/2.9d3e6242.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1419f497.js",
+    "static/js/2.9d3e6242.chunk.js",
+    "static/css/main.4559cbae.chunk.css",
+    "static/js/main.cff853d2.chunk.js"
+  ]
+}
